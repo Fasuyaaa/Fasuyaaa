@@ -1,16 +1,23 @@
-<h1 align="center"> 👋 Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 🧑🏻‍💻 Programmer Magang ⁉️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=CTF%20player;Full%20Stack-Developer;Explore%20new%20things;Always%20learning%20new%20technology;110100011000011101001&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align='center'>
  <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Dynamic&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Stargit&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+![GitHub followers](https://img.shields.io/github/followers/Fasuyaaa?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Fasuyaaa?style=social)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Fasuyaaa&left_color=Purple&right_color=%230076D6)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Fasuyaaa/Fasuyaaa?style=plastic) 
+![GitHub language count](https://img.shields.io/github/languages/count/Fasuyaaa/Senaka?style=plastic) 
+![GitHub top language](https://img.shields.io/github/languages/top/Fasuyaaa/Network-Scanning-Apps?style=plastic) 
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
